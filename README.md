@@ -6,13 +6,13 @@ Associate Professor · Department of Computer Engineering, Faculty of Engineerin
 
 [เว็บไซต์ส่วนตัว](https://madlab.cpe.ku.ac.th/punpiti/) · [Publications](https://madlab.cpe.ku.ac.th/punpiti/publications.html) · [บทความ](https://madlab.cpe.ku.ac.th/punpiti/articles.html) · [Apps](https://madlab.cpe.ku.ac.th/punpiti/apps.html)
 
-## งานที่สนใจ
+## งานที่ทำอยู่ปัจจุบัน
 
-- Image Processing, Computer Vision และ Machine Learning
-- Physics-Informed Machine Learning for Rainfall Nowcasting
-- การใช้ AI ในการเรียนการสอนวิศวกรรมและการพัฒนาศักยภาพผู้เรียน
-- Data Fusion for Public Policy and Trust Analysis
-- ระบบสนับสนุนการตัดสินใจและการทำงานของมหาวิทยาลัย
+- การใช้ AI ช่วยงานวิจัยและการทำงาน
+- การประมวลผลภาพและการวิเคราะห์ข้อมูล
+- การเรียนการสอนและการพัฒนาศักยภาพผู้เรียน
+- การพัฒนาซอฟต์แวร์และแอปพลิเคชัน
+- ระบบสารสนเทศและการสนับสนุนการตัดสินใจของมหาวิทยาลัย
 
 ## โครงการที่คัดมา
 
