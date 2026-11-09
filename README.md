@@ -36,4 +36,4 @@ Associate Professor · Department of Computer Engineering, Faculty of Engineerin
 
 [Google Scholar](https://scholar.google.com/citations?user=GIFTtB4AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-9730-3005) · [ResearchGate](https://www.researchgate.net/profile/Punpiti-Piamsa-Nga) · [Web of Science](https://www.webofscience.com/wos/author/record/D-4846-2012) · [LinkedIn](https://www.linkedin.com/in/punpiti-piamsa-nga-aab82910/)
 
-อีเมล: [punpiti@ku.ac.th](mailto:punpiti@ku.ac.th)
+Official email: [pp@ku.ac.th](mailto:pp@ku.ac.th)
